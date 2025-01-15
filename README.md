@@ -1,2 +1,2 @@
 # Assignment2
-python basic module 3 (Assignment 2)
+python data structure module 3 (Assignment 2)
